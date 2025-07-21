@@ -10,7 +10,7 @@ I'm a results-driven Product & Quality Assurance professional from Hong Kong, pa
 * 🤝 Adept at cross-functional collaboration with engineering, design, and marketing teams.
 * 🐞 Passionate about software quality and ensuring a great user experience.
 * ⚡ Fun fact: I can only eat cooked tomato!
-- 
+
 **🔹 My Tech Stack & Tools**
 
 * **Languages:** Python (Django), Java, HTML, CSS, MySQL
