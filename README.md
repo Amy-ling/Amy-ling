@@ -5,12 +5,11 @@ I'm a results-driven Product & Quality Assurance professional from Hong Kong, pa
 ---
 
 **🔹 About Me**
-- 😄 Pronouns: She/her
 * 🚀 Over 5 years of experience managing the full product lifecycle, from ideation to launch.
 * 📈 Proven expertise in translating user data into actionable product enhancements.
 * 🤝 Adept at cross-functional collaboration with engineering, design, and marketing teams.
 * 🐞 Passionate about software quality and ensuring a great user experience.
-- ⚡ Fun fact: I can only eat cooked tomato!
+* ⚡ Fun fact: I can only eat cooked tomato!
 - 
 **🔹 My Tech Stack & Tools**
 
