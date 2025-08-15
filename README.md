@@ -15,7 +15,7 @@ I'm a results-driven Product & Quality Assurance professional from Hong Kong, pa
 
 * **Languages:** Python (Django), Java, HTML, CSS, MySQL
 * **QA & Automation:** Playwright, Selenium
-* **Project Management:** JIRA, Agile Methodologies, ClickUp, Trello
+* **Project Management:** JIRA, Agile Methodologies, ClickUp, Trello, Notion
 * **Analytics:** Google Analytics, A/B Testing
 
 <!---
